@@ -1,0 +1,86 @@
+One full rotation of wheel: 90mm * pi = 28.27433cm
+Therefore one tick travels: 28.27433cm/2240 = 0.01262246875cm
+
+gertrudes wheel diameter is 90mm
+gertrudes motor tick per rotation is 2240
+gertrude is 46 cm long
+gertrudes front is at the start of a round is 77.2 cm away from the skystones
+gertrudes arm is 42.5 cm long
+gertrudes front is tba 21 cm from a skyblock when picking it up 
+gertrude has to move 56.2 cm at the start of the round to pick up skyblock
+gertrudes gap between claws when open is 16 cm long
+gertrudes gap between claws when closed is 8 cm long
+gertrudes reach is tba
+gertrudes turn rate is tba
+gertrudes arm movement speed is is tba
+
+what to do in autonomous
+
+mode 1, blue alliance right hand side
+1. move to skystones at a distance that the arm can grab CODED
+2. bring arm down to the skystone
+3. have claw grip skystone
+4. bring arm up and behind gertrude
+5. reverse backwards CODED
+6. turn left facing directly to the skybridge 
+7. go forwards, under alliance skybride untill in range of the building foundation CODED
+8. bring the arm back down to the front in order to place the skystone
+9. place the skystone on to the foundation
+10. bring arm back up
+11. move back to parking line under alliance skybridge CODED
+
+
+
+
+mode 2, red alliance left hand side
+1. move to skystones at a distance that the arm can grab
+2. bring arm down to the skystone
+3. have claw grip skystone
+4. bring arm up and behind gertrude
+5. reverse backwards
+6. turn right facing directly to the skybridge
+7. go forwards, under alliance skybride untill in range of the building foundation
+8. bring the arm back down to the front in order to place the skystone
+9. place the skystone on to the foundation
+10. bring arm back up
+11. move halfway to the skybridge and stop
+12. bring arm forwards
+13. continue reversing until parked under the skybridge
+
+mode 3, blue alliance left hand side
+1. move forwards until at a distance that gertrude can turn right and not crash into the skybridge
+2. turn right 90 degrees
+3. move forwards until adjacent to a skystone
+4. turn left 90 degrees
+5. move to skystones at a distance that the arm can grab
+6. bring arm down to the skystone
+7. have claw grip skystone
+8. bring arm up and behind gertrude
+9. reverse backwards
+10. turn left facing directly to the skybridge
+11. go forwards, under alliance skybride untill in range of the building foundation
+12. bring the arm back down to the front in order to place the skystone
+13. place the skystone on to the foundation
+14. bring arm back up
+15. move halfway to the skybridge and stop
+16. bring arm forwards
+17. continue reversing until parked under the skybridge
+
+mode 4, red alliance right hand side
+1. move forwards until at a distance that gertrude can turn left and not crash into the skybridge
+2. turn left 90 degrees
+3. move forwards until adjacent to a skystone
+4. turn right 90 degrees
+5. move to skystones at a distance that the arm can grab
+6. bring arm down to the skystone
+7. have claw grip skystone
+8. bring arm up and behind gertrude
+9. reverse backwards
+10. turn right facing directly to the skybridge
+11. go forwards, under alliance skybride untill in range of the building foundation
+12. bring the arm back down to the front in order to place the skystone
+13. place the skystone on to the foundation
+14. bring arm back up
+15. move halfway to the skybridge and stop
+16. bring arm forwards
+17. continue reversing until parked under the skybridge
